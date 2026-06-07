@@ -6,6 +6,16 @@ A **production-ready, full-stack Weather Dashboard** built with React (Vite) + T
 
 ---
 
+## 🚀 Live Demo
+
+**Frontend:** [https://weather-dashboard-blond-delta.vercel.app](https://weather-dashboard-blond-delta.vercel.app)
+
+**Backend API:** [https://nimbus-weather-api-yjx2.onrender.com/api/health](https://nimbus-weather-api-yjx2.onrender.com/api/health)
+
+**Example API Call:** [Get weather in London](https://nimbus-weather-api-yjx2.onrender.com/api/weather/current?city=London)
+
+---
+
 ## ✨ Features
 
 ### 🌡️ Weather
@@ -34,6 +44,19 @@ A **production-ready, full-stack Weather Dashboard** built with React (Vite) + T
 - Smooth animations & transitions
 - Skeleton loading states
 - Responsive (mobile + desktop)
+
+---
+
+## 📸 Screenshots
+
+
+![Weather Dashboard Home](image.png)
+![Weather Dashboard Search](image-1.png)
+![Weather Dashboard Forecast](image-2.png)
+
+---
+
+
 
 ---
 
