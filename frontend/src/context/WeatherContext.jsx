@@ -7,7 +7,7 @@ import axios from 'axios';
 
 const WeatherContext = createContext(null);
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_URL || '/api';
 
 export function WeatherProvider({ children }) {
   // ─── State ─────────────────────────────────────────────────────────────────
