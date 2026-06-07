@@ -2,7 +2,6 @@
  * Weather Dashboard - Express Server
  * Main entry point for the backend API
  */
-import cors from 'cors';
 
 require('dotenv').config();
 const express = require('express');
